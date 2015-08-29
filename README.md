@@ -39,7 +39,8 @@
 - A Fistful of Bitcoins: Characterizing Payments Among Men with No Names from University of San Diego California http://cseweb.ucsd.edu/~smeiklejohn/files/imc13.pdf
 - MRA Bitcoin Primer http://www.macroriskadvisors.com/layout/pdf/bitcoin%20primer%20BTC.pdf
 - Bitcoin Master Thesis by Piotr "ThePiachu" Piasecki https://dl.dropboxusercontent.com/u/3658181/PiotrPiasecki-BitcoinMasterThesis.pdf
-- Bitcoins as Money? http://www.bostonfed.org/economic/current-policy-perspectives/2014/cpp1404.pdf
+- Bitcoin as Money? http://www.bostonfed.org/economic/current-policy-perspectives/2014/cpp1404.pdf
+- World Citizenship by Creating Affordable Private Passport Service https://docs.google.com/document/d/1hq52GT0sQ8mJBZ3_qr-LIpZTBFqIDA2WV8vb_1m8i4U/edit#
 
 ## Other Video Presentations:
 - Mike Hearn @ 2012 LBC: https://www.youtube.com/watch?v=mD4L7xDNCmA
