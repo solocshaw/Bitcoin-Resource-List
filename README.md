@@ -71,6 +71,7 @@
 - Blockchain Size: https://blockchain.info/charts/blocks-size
 - Tradeblock https://tradeblock.com/markets
 - CoinGecko https://www.coingecko.com/en
+- CryptoGraffiti http://www.cryptograffiti.info/?txnr=1247
 
 ## Exchanges:
 - Quadriga CX https://www.quadrigacx.com/about
