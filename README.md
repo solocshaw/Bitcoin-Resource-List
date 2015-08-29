@@ -41,15 +41,16 @@
 - Bitcoin Master Thesis by Piotr "ThePiachu" Piasecki https://dl.dropboxusercontent.com/u/3658181/PiotrPiasecki-BitcoinMasterThesis.pdf
 - Bitcoin as Money? http://www.bostonfed.org/economic/current-policy-perspectives/2014/cpp1404.pdf
 - World Citizenship by Creating Affordable Private Passport Service https://docs.google.com/document/d/1hq52GT0sQ8mJBZ3_qr-LIpZTBFqIDA2WV8vb_1m8i4U/edit#
+- An Architecture for the Internet of Money https://docs.google.com/document/d/1Bc-kZXROTeMzG6AvH7rrTrUy24UwHoEcgiL7ALHMO0A/pub
 
 ## Other Video Presentations:
-- Mike Hearn @ 2012 LBC: https://www.youtube.com/watch?v=mD4L7xDNCmA
-- Paul Kemp-Robertson: https://www.ted.com/talks/paul_kemp_robertson_bitcoin_sweat_tide_meet_the_future_of_branded_currency?language=en
-- Eric Spano: https://www.youtube.com/watch?v=WI1pbHi1fww
-- Bill Gates: https://www.youtube.com/watch?t=26&v=DyAufA2lWn0
+- Mike Hearn @ 2012 LBC https://www.youtube.com/watch?v=mD4L7xDNCmA
+- Paul Kemp-Robertson https://www.ted.com/talks/paul_kemp_robertson_bitcoin_sweat_tide_meet_the_future_of_branded_currency?language=en
+- Eric Spano https://www.youtube.com/watch?v=WI1pbHi1fww
+- Bill Gates https://www.youtube.com/watch?t=26&v=DyAufA2lWn0
 - Charles Hoskinson https://www.youtube.com/watch?v=97ufCT6lQcY
 - Andreas M. Antonoupolos Testimony for the Australian Senate Commitee on Economics References (Opening Remarks) https://youtu.be/XotOwt8bTeI
-- An Architecture for the Internet of Money https://docs.google.com/document/d/1Bc-kZXROTeMzG6AvH7rrTrUy24UwHoEcgiL7ALHMO0A/pub
+- Greg Brockman @ CoinSummit London 2014 https://www.youtube.com/watch?v=6qZwl7mukZ8
 
 ## People:
 - Nick Szabo
@@ -63,6 +64,7 @@
 - Vitalik Buterin
 - Hal Finney
 - Peter Todd
+- Mike Hearn
 
 ## Analytics:
 - Block Explorer: http://chainflyer.bitflyer.jp
