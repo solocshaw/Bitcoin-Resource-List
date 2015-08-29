@@ -8,6 +8,7 @@
 - Khan Academy Bitcoin Series https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin/v/bitcoin-what-is-it
 - Udemy Course taught by Charles Hoskinson https://www.udemy.com/bitcoin-or-how-i-learned-to-stop-worrying-and-love-crypto/#/
 - Infograph on Bitcoin's History (2008-Sep/2014) https://i.imgur.com/kVF3kFu.png
+- The Bitcoin Handbook for Non-profits http://www.givebtc.org/GiveBTC_-_Handbook_for_Non_Profits.pdf
 
 ## Discussion:
 - bitcointalk Bitcoin Forums https://bitcointalk.org/index.php?topic=7269.0
@@ -27,6 +28,7 @@
 ## Documentaries:
 - The Rise and Rise of Bitcoin http://bitcoindoc.com/
 - Inside Man with Morgan Spurlock http://www.cnn.com/videos/tv/2015/02/12/morgan-spurlock-inside-man-bitcoin-02-19.cnn-promos
+- Bitcoin in Uganda https://www.youtube.com/watch?v=BrRXP1tp6Kw
 
 ## Books:
 - Cypherpunks http://www.orbooks.com/catalog/cypherpunks/
@@ -68,10 +70,11 @@
 
 ## Analytics:
 - Block Explorer: http://chainflyer.bitflyer.jp
-- Blockchain Size: https://blockchain.info/charts/blocks-size
+- Block Size: https://blockchain.info/charts/blocks-size
 - Tradeblock https://tradeblock.com/markets
-- CoinGecko https://www.coingecko.com/en
+- CoinGecko https://www.coingecko.com/en/price_charts/bitcoin/usd/24_hours
 - CryptoGraffiti http://www.cryptograffiti.info/?txnr=1247
+- Size of the Network https://getaddr.bitnodes.io
 
 ## Exchanges:
 - Quadriga CX https://www.quadrigacx.com/about
