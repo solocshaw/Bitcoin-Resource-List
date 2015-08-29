@@ -25,8 +25,8 @@
 
 ## Books:
 - Cypherpunks http://www.orbooks.com/catalog/cypherpunks/
-- Mastering Bitcoin: https://github.com/aantonop/bitcoinbook
-- The Age of Cryptocurrency: 
+- Mastering Bitcoin https://github.com/aantonop/bitcoinbook
+- The Age of Cryptocurrency http://theageofcryptocurrency.com
 
 ## Online courses:
 - Udemy Course: https://www.udemy.com/bitcoin-or-how-i-learned-to-stop-worrying-and-love-crypto/#/
