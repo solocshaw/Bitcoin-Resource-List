@@ -39,7 +39,7 @@
 - Eric Spano: https://www.youtube.com/watch?v=WI1pbHi1fww
 - Bill Gates: https://www.youtube.com/watch?t=26&v=DyAufA2lWn0
 - Charles Hoskinson https://www.youtube.com/watch?v=97ufCT6lQcY
-- Opening Remarks: Andreas M. Antonoupolos Testimony for the Australian Senate Commitee on Economics References https://youtu.be/XotOwt8bTeI
+- Andreas M. Antonoupolos Testimony for the Australian Senate Commitee on Economics References (Opening Remarks) https://youtu.be/XotOwt8bTeI
 - An Architecture for the Internet of Money https://docs.google.com/document/d/1Bc-kZXROTeMzG6AvH7rrTrUy24UwHoEcgiL7ALHMO0A/pub
 
 ## People:
