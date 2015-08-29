@@ -11,6 +11,7 @@
 - bitcointalk Bitcoin Forums https://bitcointalk.org/index.php?topic=7269.0
 - bitcoin.SE https://bitcoin.stackexchange.com/
 - /r/Bitcoin https://reddit.com/r/Bitcoin/
+- IRC https://webchat.freenode.net/?channels=bitcoin&uio=d4
 
 ## Getting your first coins:
 - tryBTC https://www.trybtc.com/
