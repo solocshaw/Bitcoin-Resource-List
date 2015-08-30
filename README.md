@@ -70,7 +70,7 @@
 
 ## Analytics:
 - Block Explorer: http://chainflyer.bitflyer.jp
-- Block Size: https://blockchain.info/charts/blocks-size
+- Blockchain Size: https://blockchain.info/charts/blocks-size
 - Tradeblock https://tradeblock.com/markets
 - CoinGecko https://www.coingecko.com/en/price_charts/bitcoin/usd/24_hours
 - CryptoGraffiti http://www.cryptograffiti.info/?txnr=1247
