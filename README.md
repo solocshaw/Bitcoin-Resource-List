@@ -9,6 +9,7 @@
 - Udemy Course taught by Charles Hoskinson https://www.udemy.com/bitcoin-or-how-i-learned-to-stop-worrying-and-love-crypto/#/
 - Infograph on Bitcoin's History (2008-Sep/2014) https://i.imgur.com/kVF3kFu.png
 - The Bitcoin Handbook for Non-profits http://www.givebtc.org/GiveBTC_-_Handbook_for_Non_Profits.pdf
+- Stanford MOOC "Crypto Currencies, the Blockchain, and Smart Contracts" https://crypto.stanford.edu/cs251/
 
 ## Discussion:
 - bitcointalk Bitcoin Forums https://bitcointalk.org/index.php?topic=7269.0
