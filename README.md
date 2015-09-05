@@ -29,6 +29,8 @@
 - The Rise and Rise of Bitcoin http://bitcoindoc.com/
 - Inside Man with Morgan Spurlock http://www.cnn.com/videos/tv/2015/02/12/morgan-spurlock-inside-man-bitcoin-02-19.cnn-promos
 - Bitcoin in Uganda https://www.youtube.com/watch?v=BrRXP1tp6Kw
+- The Bitcoin Doco https://vimeo.com/112223859
+- Life Inside of a Secret Chinese Bitcoin Mine https://www.youtube.com/watch?v=K8kua5B5K3I
 
 ## Books:
 - Cypherpunks http://www.orbooks.com/catalog/cypherpunks/
@@ -53,6 +55,7 @@
 - Charles Hoskinson https://www.youtube.com/watch?v=97ufCT6lQcY
 - Andreas M. Antonoupolos Testimony for the Australian Senate Commitee on Economics References (Opening Remarks) https://youtu.be/XotOwt8bTeI
 - Greg Brockman @ CoinSummit London 2014 https://www.youtube.com/watch?v=6qZwl7mukZ8
+- Reihan Salam interview w/ Jerry Brito https://www.youtube.com/watch?v=SNssKmeXrGs
 
 ## People:
 - Nick Szabo
@@ -67,6 +70,7 @@
 - Hal Finney
 - Peter Todd
 - Mike Hearn
+- Ben Horowitz => http://www.producthunt.com/live/ben-horowitz#comment-142243
 
 ## Analytics:
 - Block Explorer: http://chainflyer.bitflyer.jp
