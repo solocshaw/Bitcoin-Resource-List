@@ -70,8 +70,17 @@
 - Vitalik Buterin
 - Hal Finney
 - Peter Todd
+- Jeff Garzik
 - Mike Hearn
 - Ben Horowitz => http://www.producthunt.com/live/ben-horowitz#comment-142243
+
+## Events
+- Bitcoin Job Fair http://bitcoinjobfair.com
+- ScalingBitcoin https://scalingbitcoin.org/montreal2015/#workshop\
+- CoinSummit http://www.coinsumm.it
+- Texas Bitcoin Conference http://texasbitcoinconference.com
+- MIT Bitcoin Expo http://mitbitcoinexpo.org
+- Blockchain Conference New York http://www.blockchain-newyork.com
 
 ## Analytics:
 - Block Explorer: http://chainflyer.bitflyer.jp
