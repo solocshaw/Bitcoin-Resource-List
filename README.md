@@ -88,7 +88,7 @@ Table of Contents
 ### Events
 
 - [Bitcoin Job Fair](http://bitcoinjobfair.com)
-- [ScalingBitcoin](https://scalingbitcoin.org/montreal2015/#workshop\)
+- [ScalingBitcoin](https://scalingbitcoin.org/montreal2015/#workshop\ )
 - [CoinSummit](http://www.coinsumm.it)
 - [Texas Bitcoin Conference](http://texasbitcoinconference.com)
 - [MIT Bitcoin Expo](http://mitbitcoinexpo.org)
