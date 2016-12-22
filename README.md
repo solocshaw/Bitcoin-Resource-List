@@ -14,7 +14,7 @@ Table of Contents
 - [Events](#events)
 - [Analytics](#analytics)
 - [Exchanges](#exchanges)
-- [Products, Services & Other Projects](#products-services-and-other-projects)
+- [Products/Services/Other Projects](#products-services-and-other-projects)
 
 ### Learning About the Coin
 
@@ -113,7 +113,7 @@ Table of Contents
 - [BitMex](https://www.bitmex.com)
 - [Bitfinex](https://www.bitfinex.com)
 
-### Products, Services & Other Projects
+### Products/Services/Other Projects
 
 - [21](https://21.co)
 - [Factom](https://www.factom.com)
