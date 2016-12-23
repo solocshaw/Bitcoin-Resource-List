@@ -14,7 +14,7 @@ Table of Contents
 - [Events](#events)
 - [Analytics](#analytics)
 - [Exchanges](#exchanges)
-- [Products/Services/Other Projects](#products-services-and-other-projects)
+- [Other Projects](#other-projects)
 
 ### Learning About the Coin
 
@@ -40,19 +40,26 @@ Table of Contents
 
 - [tryBTC](https://www.trybtc.com/)
 - [Coinbase](https://www.coinbase.com)
+- [Stripe](https://stripe.com/bitcoin)
 - [Circle](https://www.circle.com/en)
 - [LocalBitcoins](https://localbitcoins.com)
+- [Bitwage](https://www.bitwage.com)
 
 ### Storing Your Coins
 
 - [Core](https://bitcoin.org/en/download)
 - [Electrum](https://electrum.org/#home)
+- [Ledger](https://www.ledgerwallet.com/products)
 - [Armory](https://www.bitcoinarmory.com)
+- [Mycelium](https://wallet.mycelium.com)
+- [TREZOR](https://bitcointrezor.com)
+- [Paper Wallet](https://bitcoinpaperwallet.com)
+
 
 ### Documentaries
 
 - [The Rise and Rise of Bitcoin](http://bitcoindoc.com/)
-- [Inside Man with Moran Spurlock](http://www.cnn.com/videos/tv/2015/02/12/morgan-spurlock-inside-man-bitcoin-02-19.cnn-promos)
+- [Inside Man with Morgan Spurlock](http://www.cnn.com/videos/tv/2015/02/12/morgan-spurlock-inside-man-bitcoin-02-19.cnn-promos)
 - [Bitcoin in Uganda](https://www.youtube.com/watch?v=BrRXP1tp6Kw)
 - [The Bitcoin Doco](https://vimeo.com/112223859)
 - [Life Inside of a Secret Chinese Bitcoin Mine](https://www.youtube.com/watch?v=K8kua5B5K3I)
@@ -62,6 +69,7 @@ Table of Contents
 - [Cypherpunks](http://www.orbooks.com/catalog/cypherpunks/)
 - [Mastering Bitcoin](https://github.com/aantonop/bitcoinbook)
 - [The Age of Cryptocurrency](http://theageofcryptocurrency.com)
+- [The Internet of Money](https://www.amazon.com/Internet-Money-Andreas-M-Antonopoulos/dp/1537000454)
 
 ### Papers
 
@@ -88,7 +96,7 @@ Table of Contents
 ### Events
 
 - [Bitcoin Job Fair](http://bitcoinjobfair.com)
-- [ScalingBitcoin](https://scalingbitcoin.org/montreal2015/#workshop\ )
+- [ScalingBitcoin](https://scalingbitcoin.org/montreal2015/#workshop\)
 - [CoinSummit](http://www.coinsumm.it)
 - [Texas Bitcoin Conference](http://texasbitcoinconference.com)
 - [MIT Bitcoin Expo](http://mitbitcoinexpo.org)
@@ -98,7 +106,7 @@ Table of Contents
 
 - [Block Explorer](http://chainflyer.bitflyer.jp)
 - [Block Size](https://blockchain.info/charts/blocks-size)
-- [Tradeblock](https://tradeblock.com/markets)
+- [Tradeblock](https://tradeblock.com/bitcoin)
 - [CoinGecko](https://www.coingecko.com/en/price_charts/bitcoin/usd/24_hours)
 - [CryptoGraffiti](http://www.cryptograffiti.info/?txnr=1247)
 - [Size of the Network](https://getaddr.bitnodes.io)
@@ -112,8 +120,9 @@ Table of Contents
 - [itBit](https://www.itbit.com)
 - [BitMex](https://www.bitmex.com)
 - [Bitfinex](https://www.bitfinex.com)
+- [Gemini](https://tradeblock.com/markets/gmni/xbt-usd/1d/)
 
-### Products/Services/Other Projects
+### Other Projects
 
 - [21](https://21.co)
 - [Factom](https://www.factom.com)
